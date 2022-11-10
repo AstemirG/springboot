@@ -1,11 +1,9 @@
-package com.astemir.boot.springboot.Service;
+package com.astemir.boot.springboot.dao;
 
-
-import com.astemir.boot.springboot.Model.User;
-
+import com.astemir.boot.springboot.model.User;
 import java.util.List;
 
-public interface UserService {
+public interface UserDao {
     public List<User> getAllUsers();
 
     public User getUserById(int id);

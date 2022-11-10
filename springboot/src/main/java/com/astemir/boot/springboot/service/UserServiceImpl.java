@@ -1,7 +1,7 @@
-package com.astemir.boot.springboot.Service;
+package com.astemir.boot.springboot.service;
 
-import com.astemir.boot.springboot.Dao.UserDao;
-import com.astemir.boot.springboot.Model.User;
+import com.astemir.boot.springboot.dao.UserDao;
+import com.astemir.boot.springboot.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

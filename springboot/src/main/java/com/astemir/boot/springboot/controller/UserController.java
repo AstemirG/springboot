@@ -1,7 +1,7 @@
-package com.astemir.boot.springboot.Controller;
+package com.astemir.boot.springboot.controller;
 
-import com.astemir.boot.springboot.Model.User;
-import com.astemir.boot.springboot.Service.UserService;
+import com.astemir.boot.springboot.model.User;
+import com.astemir.boot.springboot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

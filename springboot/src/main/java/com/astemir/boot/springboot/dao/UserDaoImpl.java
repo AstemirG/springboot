@@ -1,6 +1,6 @@
-package com.astemir.boot.springboot.Dao;
+package com.astemir.boot.springboot.dao;
 
-import com.astemir.boot.springboot.Model.User;
+import com.astemir.boot.springboot.model.User;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 

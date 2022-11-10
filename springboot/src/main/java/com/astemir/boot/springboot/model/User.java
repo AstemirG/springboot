@@ -1,4 +1,4 @@
-package com.astemir.boot.springboot.Model;
+package com.astemir.boot.springboot.model;
 
 import javax.persistence.*;
 
